@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RunSwaCli": {
+      "commandName": "Project",
+      "commandLineArgs": "$(solution)"
+    }
+  }
+}
